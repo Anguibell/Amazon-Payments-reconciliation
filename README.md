@@ -1,4 +1,3 @@
----
 # 📊 Amazon Payments Reconciliation & Monitoring Portal (Frontend)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
