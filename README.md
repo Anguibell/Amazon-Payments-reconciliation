@@ -35,26 +35,27 @@ Hosted on **IDA Cloud**, this **React** web portal enables finance and operation
 1. **Install core dependencies:**
    ```bash
    npm install
+   ```
 
-Install charting and reporting libraries (if setting up from scratch):
+2. **Install charting and reporting libraries (if setting up from scratch):**
+   ```bash
+   npm install react-chartjs-2 chart.js react-csv
+   npm install jspdf jspdf-autotable
+   ```
 
-Bash
-npm install react-chartjs-2 chart.js react-csv
-npm install jspdf jspdf-autotable
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
 
-Run the development server:
+4. **Inspect project structure (optional):**
+   ```bash
+   tree -I node_modules
+   ```
 
-Bash
-npm run dev
+---
 
-Inspect project structure (optional):
-
-Bash
-tree -I node_modules
-
-👩‍💻 Developer
-Author: Anguibell Romero – Systems Engineer
-
-Frontend Repository: https://github.com/Anguibell/Amazon-Payments-reconciliation
-
-Backend Repository: https://github.com/Anguibell/Backend-Amazon-Payments-reconciliation
+## 👩‍💻 Developer
+- **Author:** [Anguibell Romero](https://www.linkedin.com/in/anguibell-romero) – Systems Engineer
+- **Frontend Repository:** [https://github.com/Anguibell/Amazon-Payments-reconciliation](https://github.com/Anguibell/Amazon-Payments-reconciliation)
+- **Backend Repository:** [https://github.com/Anguibell/Backend-Amazon-Payments-reconciliation](https://github.com/Anguibell/Backend-Amazon-Payments-reconciliation)
